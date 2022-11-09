@@ -32,3 +32,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### Package Install
 npm install react-data-table-component styled-components
 npm i axios
+
+#### Documentation
+https://react-data-table-component.netlify.app/?path=/story/getting-started-installation--page
+
