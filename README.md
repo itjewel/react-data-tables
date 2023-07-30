@@ -2,8 +2,7 @@
 
 If you need any queries or want to hire me please inform me by email: [md.jewelmia52@gmail.com]
 
-# Demo: https://simple-tab-react.vercel.app/
-
+# Demo: https://react-data-tables.vercel.app/
 
 ## Available Scripts
 
